@@ -1,0 +1,6 @@
+{
+  "version": "2.1.0",
+  "api_invoice": "https://hoadondientu.gdt.gov.vn/api/query/invoices",
+  "api_xml": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-xml",
+  "update_message": "Đã cập nhật API mới ngày 20/05"
+}
