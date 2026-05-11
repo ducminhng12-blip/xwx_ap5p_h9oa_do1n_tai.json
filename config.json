@@ -2,5 +2,7 @@
   "version": "2.1.0",
   "api_invoice": "https://hoadondientu.gdt.gov.vn/api/query/invoices",
   "api_xml": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-xml",
-  "update_message": "Đã cập nhật API mới ngày 20/05"
+  "api_excel_purchase": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-excel-sold",
+  "api_excel_sold": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-excel",
+  "user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
