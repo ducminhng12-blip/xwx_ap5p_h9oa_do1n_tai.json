@@ -1,5 +1,5 @@
 {
-  "version": "2.1.4",
+  "version": "2.1.1",
   "update_url": "https://github.com/ducminhng12-blip/https://drive.google.com/drive/folders/1emCcOcIVX2XQ3Gxw04zfehJAtthMtJzg?usp=drive_link",
   "api_invoice": "https://hoadondientu.gdt.gov.vn/api/query/invoices",
   "api_xml": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-xml",
