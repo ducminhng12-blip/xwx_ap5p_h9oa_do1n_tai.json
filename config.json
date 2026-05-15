@@ -1,6 +1,6 @@
 {
-  "version": "2.1.5",
-  "update_url": "https://github.com/ducminhng12-blip/xwx_ap5p_h9oa_do1n_tai.json/releases/download/v2.1.5/peppa_pig2.1.4.exe",
+  "version": "2.1.4",
+  "update_url": "",
   "changelog": "- Thêm tính năng tự động nâng cấp phiên bản ngay trong tool.\n- Sửa lỗi WinError 183 khi chạy siêu đa luồng.\n- Tối ưu hóa tốc độ quét hóa đơn cho nhiều MST cùng lúc.",
   "api_invoice": "https://hoadondientu.gdt.gov.vn/api/query/invoices",
   "api_xml": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-xml",
