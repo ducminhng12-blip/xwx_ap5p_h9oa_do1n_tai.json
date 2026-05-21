@@ -1,7 +1,7 @@
 {
   "version": "2.1.8",
   "update_url": "https://github.com/ducminhng12-blip/xwx_ap5p_h9oa_do1n_tai.json/releases/download/2.1.8/peppa_pig.exe",
-  "changelog": "\n- Xuất excel chi tiết.\nTra cứu rủi ro MST hàng loạt\n- Ai có lòng cho tôi 10K ăn sáng\n- 0563520805\n- MB BANK",
+  "changelog": "\n- Xuất excel chi tiết.\nTra cứu MST hàng loạt\n- Ai có lòng cho tôi 10K ăn sáng\n- 0563520805\n- MB BANK",
   "api_invoice": "https://hoadondientu.gdt.gov.vn/api/query/invoices",
   "api_xml": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-xml",
   "api_excel_purchase": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-excel-sold",
