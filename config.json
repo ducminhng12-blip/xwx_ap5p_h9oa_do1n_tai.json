@@ -7,4 +7,27 @@
   "api_xml": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-xml",
   "api_excel_purchase": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-excel-sold",
   "api_excel_sold": "https://hoadondientu.gdt.gov.vn/api/query/invoices/export-excel"
+
+    "parser_rules": {
+    "105987432": {
+      "link_fields": ["PortalLink", "DC TC"],
+      "code_fields": ["Fkey"]
+    },
+    "101300842": {
+      "link_fields": ["DC TC"],
+      "code_fields": ["Mã TC", "Mã tra cứu"]
+    },
+    "100109106": {
+      "code_fields": ["Mã số bí mật", "Mã bảo mật"]
+    },
+    "100124268": {
+      "code_fields": ["Mã số bí mật", "Mã bảo mật"]
+    },
+    "311262335": {
+      "code_direct_tag": "MTC"
+    },
+    "103243195": {
+      "code_attribute": "Id"
+    }
+  }
 }
